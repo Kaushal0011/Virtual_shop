@@ -1,0 +1,12 @@
+export './colors.dart';
+export './colors.dart';
+export './images.dart';
+export './strings.dart';
+export './styles.dart';
+export 'package:velocity_x/velocity_x.dart';
+import 'package:virtual_shop/views/splash_screen/splash_screen.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
+import 'package:virtual_shop/widget_common/applogo_widget.dart';
