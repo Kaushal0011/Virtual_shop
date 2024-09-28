@@ -1,3 +1,3 @@
 # virtual_shop
 
-Flutter E-commerse User and Seller Application.
+Flutter E-commerce User and Seller Application.
