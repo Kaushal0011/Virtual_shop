@@ -1,4 +1,4 @@
-# virtual_shop
+# virtual_shop - ecommerce application
 
 A new Flutter project.
 
