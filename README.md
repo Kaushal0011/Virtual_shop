@@ -1,3 +1,3 @@
-# virtual_shop - ecommerce application
+# virtual_shop #
 
 Flutter E-commerce User and Seller Application.

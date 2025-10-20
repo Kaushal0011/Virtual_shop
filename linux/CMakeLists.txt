@@ -17,6 +17,16 @@ cmake_policy(SET CMP0063 NEW)
 set(CMAKE_INSTALL_RPATH "$ORIGIN/lib")
 
 # Root filesystem for cross-building.
+#TODO: Add cross-building support for Linux.
+#TODO: Add support for ARM64 architecture.
+#TODO: Add support for aarch64 architecture.
+#TODO: Add support for x86_64 architecture.
+#TODO: Add support for i386 architecture.
+#TODO: Add support for armv7l architecture.
+#TODO: Add support for aarch64 architecture.
+#TODO: Add support for x86_64 architecture.
+#TODO: Add support for i386 architecture.
+#TODO: Add support for armv7l architecture.
 if(FLUTTER_TARGET_PLATFORM_SYSROOT)
   set(CMAKE_SYSROOT ${FLUTTER_TARGET_PLATFORM_SYSROOT})
   set(CMAKE_FIND_ROOT_PATH ${CMAKE_SYSROOT})
